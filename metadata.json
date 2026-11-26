@@ -1,0 +1,6 @@
+{
+  "name": "CL컨벤션 관리자",
+  "description": "CL컨벤션 · 브릿지36 통합 어드민 센터 - 홈페이지 메인 사진, 갤러리, 배너 링크를 관리합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
